@@ -5,5 +5,5 @@
     <artifactId>java-ninja-vault</artifactId>
     <version>1.0-SNAPSHOT</version>
   </parent>
-  <artifactId>java-inheritance</artifactId>
+  <artifactId>java-design-pattern</artifactId>
 </project>

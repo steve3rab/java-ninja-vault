@@ -6,7 +6,7 @@
 
 	<groupId>com.iloo</groupId>
 	<artifactId>java-ninja-vault</artifactId>
-	<version>2.0-SNAPSHOT</version>
+	<version>1.0-SNAPSHOT</version>
 	<packaging>pom</packaging>
 
 	<name>Java Ninja Vault</name>
@@ -144,5 +144,6 @@
 
 	<modules>
 		<module>java-inheritance</module>
+		<module>java-design-pattern</module>
 	</modules>
 </project>
