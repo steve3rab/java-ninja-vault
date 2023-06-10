@@ -1,4 +1,4 @@
-package com.iloo.javadesignpattern.functinalinterface;
+package com.iloo.javadesignpattern.functionalinterface;
 
 /**
  * The AnimalSound interface represents a functional interface for making animal

@@ -1,4 +1,4 @@
-package com.iloo.javadesignpattern.functinalinterface;
+package com.iloo.javadesignpattern.functionalinterface;
 
 import java.lang.invoke.MethodHandles;
 
