@@ -146,5 +146,6 @@
 		<module>java-inheritance</module>
 		<module>java-design-pattern</module>
 		<module>java-solid</module>
+		<module>java-newfeature</module>
 	</modules>
 </project>
